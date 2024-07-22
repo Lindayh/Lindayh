@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="height:40px; padding:7px" title="PyTorch">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" style="height:40px; padding:7px" title="OpenCV">
+<br>
 
 <!-- Data Visualization -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="height:40px; padding:7px;" title="Pandas">
