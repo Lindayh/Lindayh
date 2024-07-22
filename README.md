@@ -8,7 +8,18 @@ You can click the Preview link to take a look at your changes.
 ## About me 
 
 - Currently studying AI development at Jensen HVE, Stockholm
-- My LinkedIn
+- 
+
+  <br>
+  <br>
+
+  <div align="center">
+  Contact me:<br><br>
+    
+  <a href="https://www.linkedin.com/in/foglilinda/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" style="height:40px;"></a>
+  <a href="https://github.com/Lindayh" target="_blank"><img src="svg/GitHub-Logo.wine.svg" alt="GitHub" style="height:40px;"></a>
+  
+  </div>
 
 ## My skills
 <div align="center">
@@ -41,27 +52,31 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="height:40px; padding:7px" title="PyTorch">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" style="height:40px; padding:7px" title="OpenCV">
 <br>
+<br>
 
 <!-- Data Visualization -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="height:40px; padding:7px;" title="Pandas">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" style="height:40px; padding:7px;" title="Matplotlib">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" style="height:40px; padding:7px;" title="NumPy">
 <br>
+<br>
 
 <!-- Backend -->
 <img src="svg/flask-original.svg" alt="Flask" style="height:40px; padding:7px;" title="Flask">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" style="height:40px; padding:7px;" title="SQLALchemy">
 <!-- <img src="" alt="" style="height:40px; padding:7px;" title=""> -->
-
+<br>
+<br>
 
 ### Other languages and tools
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" style="height:40px; padding:7px;" title="HTML">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS" style="height:40px; padding:7px;" title="CSS">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" style="height:40px; padding:7px;" title="JavaScript">
-<br>
+<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" style="height:40px; padding:7px;" title="SQLite">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="height:40px; padding:7px;" title="Git">
-<br>
+<br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Calligra_Krita_icon.svg" alt="Krita" style="height:40px; padding:7px;" title="Krita">
 <img src="svg/zbrush.svg" alt="ZBrush" style="height:40px; padding:7px;" title="ZBrush">
 <!-- <img src="" alt="" style="height:40px; padding:7px;" title=""> -->
