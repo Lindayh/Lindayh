@@ -19,31 +19,64 @@ You can click the Preview link to take a look at your changes.
   ![HTML](https://img.shields.io/badge/-HTML-royalblue?logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-darkred?logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-darkred?logo=JavaScript)
-  SQLite
 -->
 
-### Main programming language
+<table width="100%">
+<thead>
+  <th> 
+
+  ### Main Language 
+
+  </th>
+  <th>
+
+  ### Front-end
+
+  </th>
+</thead>
+<tbody>
+  <tr>
+  <td style="display:flex; flex-direction:column; justify-content:center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="height:65px" title="Python">
+  <div style="display:flex; flex-direction:row; justify-content:center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="height:40px; padding:7px" title="PyTorch">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" style="height:40px; padding:7px" title="OpenCV">
+    </div>
+  <div style="display:flex; flex-direction:row; justify-content:center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="height:40px; padding:7px;" title="Pandas">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" style="height:40px; padding:7px;" title="Matplotlib">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" style="height:40px; padding:7px;" title="NumPy">
+    </div>
+  <div style="display:flex; flex-direction:row; justify-content:center">
+    <img src="svg/flask-original.svg" alt="Flask" style="height:40px; padding:7px;" title="Flask">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" style="height:40px; padding:7px;" title="SQLALchemy">
+    </div>
+  </td>
+  </tr>
+
+</tbody>
+</table>
+
+
+
+
+### Main language
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="height:65px" title="Python"><br>
 
-<div style="display:flex; flex-direction: row; justify-content: center;">
+<!-- <div style="display:flex; flex-direction: row; justify-content: center;">
 <figure>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="height:40px" title="PyTorch">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="height:40px; padding:7px" title="PyTorch">
 <figcaption>PyTorch</figcaption>
 </figure>
 <figure>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" style="height:40px;" title="OpenCV">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" style="height:40px; padding:7px" title="OpenCV">
 <figcaption>OpenCV</figcaption>
-</figure>
-</div>
+</f
+</div> -->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="height:40px; padding:7px;" title="Pandas">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" style="height:40px; padding:7px;" title="Matplotlib">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" style="height:40px; padding:7px;" title="NumPy">
-<br>
-<img src="svg/flask-original.svg" alt="Flask" style="height:40px; padding:7px;" title="Flask">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" style="height:40px; padding:7px;" title="SQLALchemy">
-<img src="" alt="" style="height:40px; padding:7px;" title="">
+
+
+<!-- <img src="" alt="" style="height:40px; padding:7px;" title=""> -->
 
 <br>
 
@@ -51,6 +84,12 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" style="height:40px; padding:7px;" title="HTML">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS" style="height:40px; padding:7px;" title="CSS">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" style="height:40px; padding:7px;" title="JavaScript">
+<br>
+
+### Other
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" style="height:40px; padding:7px;" title="SQLite">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="height:40px; padding:7px;" title="Git">
+<!-- <img src="" alt="" style="height:40px; padding:7px;" title=""> -->
 
 
 </div>
