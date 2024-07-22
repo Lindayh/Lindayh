@@ -5,7 +5,6 @@ Lindayh/Lindayh is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
 ## About me 
 
 - Currently studying AI development at Jensen HVE, Stockholm
@@ -24,9 +23,11 @@ You can click the Preview link to take a look at your changes.
 -->
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="height:50px" title="Python"><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="height:50px" title="Pandas">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" style="height:50px" title="Matplotlib">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="height:40px" title="Pandas">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" style="height:40px" title="Matplotlib">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" style="height:40px" title="NumPy">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" style="height:40px" title="Flask">
+<img src="" alt="" style="height:50px" title="">
 
 
 </div>
