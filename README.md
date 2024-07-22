@@ -11,19 +11,19 @@ Lindayh/Lindayh is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-I'm Linda, I'm currently studying AI development at Jensen HVE, Stockholm.<br>
-Interested in computer vision
+I'm Linda, an AI developer student with a background in cultural heritage.<br>
+I'm currently learning machine learning and also interested in computer vision. <br><br>
 
-<br>
+  <!-- Reach me at: <a href="mailto:foglilinda@gmail.com" target="_blank" style="color:white">foglilinda@gmail.com</a> -->
 
 </div>
 
   <div align="center">
-  Contact me:<br><br>
+  Connect with me:<br><br>
     
-  <a href="https://www.linkedin.com/in/foglilinda/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" style="height:40px;"></a> &#160;
+  <a href="https://www.linkedin.com/in/foglilinda/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" style="height:40px;"></a> &#160; 
   <a href="mailto:foglilinda@gmail.com" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-email-material-design-512.png" alt="Mail" style="height:40px;"></a> &#160;
-  <a href="https://github.com/Lindayh" target="_blank"><img src="svg/GitHub-Logo.wine.svg" alt="GitHub" style="height:40px;"></a>
+  <a href="https://github.com/Lindayh" target="_blank"><img src="svg/GitHub-Logo.wine.svg" alt="GitHub" style="height:40px;"></a> 
   
   </div>
 
@@ -39,7 +39,7 @@ Interested in computer vision
   ![JavaScript](https://img.shields.io/badge/-JavaScript-darkred?logo=JavaScript)
 -->
 
-### Main language
+#### Main language
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="height:65px" title="Python"><br>
 
@@ -74,7 +74,7 @@ Interested in computer vision
 <br>
 
 
-### Other languages and tools
+#### Other languages and tools
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" style="height:40px;" title="HTML"> &#160;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS" style="height:40px;" title="CSS"> &#160;
