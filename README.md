@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
   Contact me:<br><br>
     
   <a href="https://www.linkedin.com/in/foglilinda/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" style="height:40px;"></a>
+  <a href="mailto:foglilinda@gmail.com" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-email-material-design-512.png" alt="Mail" style="height:40px;"></a>
   <a href="https://github.com/Lindayh" target="_blank"><img src="svg/GitHub-Logo.wine.svg" alt="GitHub" style="height:40px;"></a>
   
   </div>
