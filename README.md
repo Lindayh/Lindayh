@@ -1,7 +1,7 @@
 <div align="center">
 
   
-### **Hey there!**  👋
+### **Hello there!**  👋
 
 <br>
 
@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 I'm Linda, an AI developer student with a background in cultural heritage.<br>
-I'm currently learning machine learning and also interested in computer vision. <br><br>
+I'm currently learning machine learning and exploring computer vision. <br><br>
 
   <!-- Reach me at: <a href="mailto:foglilinda@gmail.com" target="_blank" style="color:white">foglilinda@gmail.com</a> -->
 
